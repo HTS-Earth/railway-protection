@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_25]"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/olle/.m2/repository/org/spigotmc/spigot-api/1.16.1-R0.1-SNAPSHOT/spigot-api-1.16.1-R0.1-SNAPSHOT.jar" sourcepath="/Users/olle/.m2/repository/org/spigotmc/spigot-api/1.16.1-R0.1-SNAPSHOT/spigot-api-1.16.1-R0.1-SNAPSHOT-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.spigotmc"/>
+			<attribute name="maven.artifactId" value="spigot-api"/>
+			<attribute name="maven.version" value="1.16.1-R0.1-SNAPSHOT"/>
+			<attribute name="maven.scope" value="provided"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

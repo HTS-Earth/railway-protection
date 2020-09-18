@@ -1,0 +1,6 @@
+main: htsearth.railwayprotect.RailwayProtect
+name: RailwayProtection
+version: 1.0
+author: miljonmannen
+api-version: 1.16
+description: HTSEarth Official Plugin
